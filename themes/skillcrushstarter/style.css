@@ -287,7 +287,6 @@ body {
 .page-header .top-logo {
 	color: inherit;
 	text-align: center;
-	/*float: left;*/
 }
 .page-header .top-logo .title {
 	color: #45ac9d;
@@ -343,7 +342,6 @@ body {
 		justify-content: space-between;
 	}
 	.page-header .top-nav {
-		/*float: right;*/
 		display: inline-block;
 		width: auto;
 		text-align: center;
@@ -353,7 +351,6 @@ body {
 	}	
 	.page-header .top-nav ul li {
 		display: block;
-		/*float: left;*/
 	}
 	.page-header .top-nav ul li:hover {
 		background: #eeeeee;
@@ -372,7 +369,6 @@ body {
 		text-indent: 0;
 	}
 	.page-header .top-nav ul ul li {
-		/*float: none;*/
 		text-align: left;
 	}
 	.page-header .top-nav ul li:hover > ul {
