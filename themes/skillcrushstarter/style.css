@@ -308,7 +308,7 @@ body {
 }
 .page-header .top-nav ul {
 	margin: 0;
-	background: #eeeeee;
+	/*background: #eeeeee;*/
 }
 .page-header .top-nav ul li a {
 	color: inherit;
