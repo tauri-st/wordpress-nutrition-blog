@@ -507,10 +507,10 @@ body {
 #sidebar li {
 	list-style-type: none;
 }
-#sidebar .widget {
+#sidebar .widget-area {
 	padding: 1.75em 1.8em 0;
 }
-#sidebar .widget:last-of-type {
+#sidebar .widget-area:last-of-type {
 	padding-bottom: 1.75em;
 }
 #sidebar .widget_text {
@@ -521,7 +521,7 @@ body {
 	max-width: 175px;
 	margin: auto;
 	display: block;
-	border-radius: 50%; /* style not defined by the challenge code but an option to match image to site design */
+	border-radius: 50%;
 }
 #sidebar .widget_text a {
 	color: #3b3b3b;
@@ -532,19 +532,19 @@ body {
 	border-bottom: 1px solid #BFBFBF;
 	padding: 1.75em 1.8em;
 }
-#sidebar .widget_search input[type="text"] {
+#sidebar #wp-block-search__input-1 input [type="text"] {
 	width: 79%;
 	font: .875em/1.75em 'OpenSans', Arial, sans-serif;
 	font-style: italic;
 	border-top: 1px solid #a6a6a6;
-	border-bottom: 1px solid #a6a6a6;
+	border-bottom: 1px solid #dc3232;
 	border-left: 1px solid #a6a6a6;
 	border-right: none;
 	height: 2.6em;
 	padding: .5em;
 	vertical-align: middle;
 }
-#sidebar .widget_search input[type="submit"] {
+#sidebar #wp-block-search__input-1 input [type="submit"] {
 	width: 13%;
 	border-top: 1px solid #a6a6a6;
 	border-bottom: 1px solid #a6a6a6;
