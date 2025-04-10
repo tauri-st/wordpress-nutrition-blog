@@ -510,7 +510,7 @@ body {
 #sidebar .widget-area {
 	padding: 1.75em 1.8em 0;
 }
-#sidebar .widget-area:last-of-type {
+#sidebar .widget-area:last-o and nf-type {
 	padding-bottom: 1.75em;
 }
 #sidebar .widget_text {
@@ -532,19 +532,19 @@ body {
 	border-bottom: 1px solid #BFBFBF;
 	padding: 1.75em 1.8em;
 }
-#sidebar #wp-block-search__input-1 input [type="text"] {
+#sidebar .wp-block-search__input {
 	width: 79%;
 	font: .875em/1.75em 'OpenSans', Arial, sans-serif;
 	font-style: italic;
 	border-top: 1px solid #a6a6a6;
-	border-bottom: 1px solid #dc3232;
+	border-bottom: 1px solid #a6a6a6;
 	border-left: 1px solid #a6a6a6;
 	border-right: none;
 	height: 2.6em;
 	padding: .5em;
 	vertical-align: middle;
 }
-#sidebar #wp-block-search__input-1 input [type="submit"] {
+#sidebar .wp-block-search__button {
 	width: 13%;
 	border-top: 1px solid #a6a6a6;
 	border-bottom: 1px solid #a6a6a6;
