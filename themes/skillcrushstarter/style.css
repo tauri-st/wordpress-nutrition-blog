@@ -528,7 +528,7 @@ body {
 	font-weight: 700;
 	text-decoration: underline;
 }
-#sidebar .widget_search {
+#sidebar .wp-block-search {
 	border-bottom: 1px solid #BFBFBF;
 	padding: 1.75em 1.8em;
 }
