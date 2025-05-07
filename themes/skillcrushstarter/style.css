@@ -520,9 +520,9 @@ body {
 #sidebar .wp-block-group {
 	padding-bottom: 1.75em;
 }
-#sidebar .widget_text {
+/*#sidebar .widget_text {
 	border-bottom: 1px solid #BFBFBF;
-}
+}*/
 #sidebar .widget_text img {
 	max-width: 175px;
 	margin: auto;
@@ -563,6 +563,7 @@ body {
 #sidebar .wp-block-heading {
 	font: 700 .875em/1.75 'OpenSans', Arial, sans-serif;
 	color: #45ac9d;
+	margin: 0;
 }
 #sidebar .wp-block-categories-list,
 #sidebar .wp-block-archives-list {
