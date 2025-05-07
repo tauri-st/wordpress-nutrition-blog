@@ -558,8 +558,7 @@ body {
 	padding: 0;
 	vertical-align: middle;
 }
-#sidebar .widget_categories h2,
-#sidebar .widget_archive h2 {
+#sidebar .wp-block-heading {
 	font: 700 .875em/1.75 'OpenSans', Arial, sans-serif;
 	color: #45ac9d;
 	margin: 0 auto 1.25em;
