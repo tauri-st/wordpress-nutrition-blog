@@ -517,6 +517,9 @@ body {
 	padding: 1.75em 0;
 	border-bottom: 1px solid #BFBFBF;
 }
+#sidebar .wp-block-group {
+	padding-bottom: 1.75em;
+}
 #sidebar .widget_text {
 	border-bottom: 1px solid #BFBFBF;
 }
