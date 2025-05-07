@@ -507,15 +507,15 @@ body {
 #sidebar li {
 	list-style-type: none;
 }
-/*#sidebar .widget-area {
+#sidebar .widget-area {
 	padding: 1.75em 1.8em 0;
-}*/
+}
 #sidebar .widget-area:last-o and nf-type {
 	padding-bottom: 1.75em;
 }
 #sidebar .widget_text {
 	border-bottom: 1px solid #BFBFBF;
-	padding: 1.75em 1.8em;
+	padding: 1.75em 0;
 }
 #sidebar .widget_text img {
 	max-width: 175px;
@@ -530,7 +530,7 @@ body {
 }
 #sidebar .wp-block-search {
 	border-bottom: 1px solid #BFBFBF;
-	padding: 1.75em 1.8em;
+	padding: 1.75em 0;
 }
 #sidebar .wp-block-search__input {
 	width: 79%;
