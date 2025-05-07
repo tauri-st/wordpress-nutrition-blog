@@ -520,9 +520,6 @@ body {
 #sidebar .wp-block-group {
 	padding-bottom: 1.75em;
 }
-/*#sidebar .widget_text {
-	border-bottom: 1px solid #BFBFBF;
-}*/
 #sidebar .widget_text img {
 	max-width: 175px;
 	margin: auto;
