@@ -564,14 +564,14 @@ body {
 	font: 700 .875em/1.75 'OpenSans', Arial, sans-serif;
 	color: #45ac9d;
 }
-#sidebar .widget_categories ul li,
-#sidebar .widget_archive ul li {
+#sidebar .wp-block-categories-list,
+#sidebar .wp-block-archives-list {
 	font: 600 .875em/1.5 'OpenSans', Arial, sans-serif;
 	color: #3b3b3b;
 	margin-bottom: 1em;
 }
-#sidebar .widget_categories ul li a,
-#sidebar .widget_archive ul li a {
+#sidebar .wp-block-categories-list a,
+#sidebar .wp-block-archives-list a {
 	color: #3b3b3b;
 }
 /* End SIDEBAR STYLES */
