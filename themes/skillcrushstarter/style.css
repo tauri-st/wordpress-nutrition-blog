@@ -554,7 +554,7 @@ body {
 	background: url("img/white-arrow-right.png") no-repeat center #45ac9d;
 	color: #ffffff;
 	margin-left: -5px;
-	padding: 0;
+	padding: 0 1.25em;
 	vertical-align: middle;
 }
 #sidebar .wp-block-heading {
