@@ -507,9 +507,9 @@ body {
 #sidebar li {
 	list-style-type: none;
 }
-#sidebar .widget-area {
+/*#sidebar .widget-area {
 	padding: 1.75em 1.8em 0;
-}
+}*/
 #sidebar .widget-area:last-o and nf-type {
 	padding-bottom: 1.75em;
 }
@@ -552,7 +552,7 @@ body {
 	border-left: none;
 	font: .875em/1.75em 'Open Sans', Arial, sans-serif;
 	height: 2.6em;
-	background: url('img/white-arrow-right.png') no-repeat center #45ac9d;
+	background: url("img/white-arrow-right.png") no-repeat center #45ac9d;
 	color: #ffffff;
 	margin-left: -5px;
 	padding: 0;
